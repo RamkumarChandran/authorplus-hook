@@ -1,4 +1,4 @@
--![alt text](http://www.miguelpau.es/documents/10831/3b5e95db-1ed3-40e5-81f3-edfc639d1d75 "AuthorPlus Plugin For Liferay Portal")
+<img src="http://www.miguelpau.es/documents/10831/3b5e95db-1ed3-40e5-81f3-edfc639d1d75" al="AuthorPlus Plugin For Liferay Portal">
 Authorplus-hook 1.0
 ===============
 Liferay Portal Version 6.1 GA2 (6.1.1)
