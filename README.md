@@ -1,5 +1,7 @@
-Authorplus-hook
+-![alt text](http://www.miguelpau.es/documents/10831/3b5e95db-1ed3-40e5-81f3-edfc639d1d75 "AuthorPlus Plugin For Liferay Portal")
+Authorplus-hook 1.0
 ===============
+Liferay Portal Version 6.1 GA2 (6.1.1)
 AuthorPlus plugin will help you to setting up Google Authorship in your 
 Liferay Portal and get the rich snippet in the Search Engine Results Page for
 Blog entries and Web Contents.
@@ -13,6 +15,16 @@ If the expando of the user has the URL:
 	set AUTHOR view in Asset Publisher settings.
 	
 Enjoy it!
+
+Authors...& plus
+===============
+Miguel Ángel Pau
+www.miguelpau.es
+@miguelpau
+
+Moisés Belda
+www.moisesbelda.com
+@moisesbelda
 
 License
 ===============
