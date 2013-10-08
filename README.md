@@ -1,7 +1,7 @@
 <img src="http://www.miguelpau.es/documents/10831/3b5e95db-1ed3-40e5-81f3-edfc639d1d75" al="AuthorPlus Plugin For Liferay Portal">
 Authorplus-hook 1.0
 ===============
-Liferay Portal Version 6.1 GA2 (6.1.1)
+Liferay Portal CE 6.1.1+ & EE 6.1.20+
 AuthorPlus plugin will help you to setting up Google Authorship in your 
 Liferay Portal and get the rich snippet in the Search Engine Results Page for
 Blog entries and Web Contents.
